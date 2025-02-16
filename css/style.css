@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0cap;
+    text-align: center;
+}
+
+.header {
+    font-family: 'Papyrus', 'Times New Roman', serif;
+    font-size: 22px;
+    text-align: center;
+    padding: 40px;
+}
+
+.pic {
+    margin: 10px;
+    height: auto;
+    width: 350px;
+}
+
+.recipes {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.adobo, .sinigang, .smash {
+    padding: 20px 10px;
+    background-color: beige;
+    margin: 20px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+
