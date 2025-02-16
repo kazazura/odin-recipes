@@ -1,0 +1,16 @@
+* {
+    font-family: 'Papyrus', 'Times New Roman', serif;
+    background-color: beige;
+}
+
+.header {
+    text-align: center;
+}
+
+#chicken-adobo {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
